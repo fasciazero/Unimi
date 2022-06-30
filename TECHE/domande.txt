@@ -1,0 +1,63 @@
+DOMANDE:
+
+1) quantizzazione delle immagini
+
+2) Digitalizzazione di un nastro magnetico e risoluzione del problema della testina sporca
+
+3) cos'è il MAG
+
+4) di cosa parla la legge Stanca
+
+5) parola di quantizzazione e frequenza di campionamento di un file audio di livello A
+
+- campionamento e quantizzazione nelle immagini e standard di codifica relativi alla conservazione.
+
+    - ISBD
+
+    - Differenza tra refreshing e migrazione
+
+    - Watermarking
+
+Quantizzazione nell'audio/immagini/video
+
+Unimarc
+
+Migrazione
+
+Scanner planetari
+
+e PST
+
+però tendenzialmente mi hanno detto che chiede anche Dublin Core, ICCU, ICCD e ste cose qui
+
+-quabtizzwzione delle immagini
+
+-se digitalizzo dischi in vinile mi aspetto rumori di fondo o rumori transitori?
+
+-come posso prevenire rumori  prima della digitalizzazione di un disco in vinile?
+
+-cos'è il refreshing
+
+-cos'è un file mag
+
+Finito anche io, mi ha fatto una domanda su iccu e iccd (dirgli cosa sono) che è stata l’unica diversa da quelle già riportate e a cui non sapevo rispondere (colpa mia che ho studiato super velocemente) per il resto tutto standard tranquilli
+
+a parte quello già detto, mi ha chiesto architettura raid 1 e in particolare una terza copia di sicurezza su quale supporto andava fatto e come conservare i vinili (posizione verticale e diametri diversi separati)
+
+1) differenza fra raid 0 e 1
+
+2) quale fra le precedenti architetture è adibita alla conservazione e quale alla valorizzazione
+
+3) Unimarc
+
+4) ICCD e ICCU
+
+5) I precedenti enti sono nazionali o regionali?
+
+6) cosa si deve tenere in considerazione in termini di digitalizzazione se si usasse una macchina fotografica?
+
+7) Quantizzazione audio
+
+8) Quantizzazione immagini e differenza con quella audio
+
+9) refreshing

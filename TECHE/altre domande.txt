@@ -1,0 +1,16 @@
+- in quante dimensioni si campiona un'imaggine statica? come varia per il video? Se voglio fare la moviola devo cambiare campionamento o quantizzazione? se sì, come e perché?
+- Raid 0 e 1, come funzionano e quale è meglio per la valorizzazione e quale per la conservazione? perché?
+- Come si conservano i nastri magnetici? verticale/orizzontale dimensioni uguali o diverse - e perché? cosa succede se non lo faccio?
+- ICCD e ICCU
+- Standard MAG, cos'è? a cosa serve? (mi ha chiesto un caso specifico per vedere se avevo capito il concetto ma ora non ricordo)
+
+
+
+A me ha chiesto: 
+- relazione tra pixel e quantizzazione.
+- se cambia il numero di colori rappresentabili se ho 4 sottoparole da 6 bit o 3 sottoparole da 8 bit in RGB.
+- se sono un archivista e trovo supporti sparsi a casaccio cosa dovrei fare e come dovrei conservarli (libri,dischi,nastri magnetici etc...)
+- cosa conservo in orizzontale? (Risposta = niente, tutto sempre in verticale)
+- differenza tra raid 0 e raid 1, quanti dischi ha raid 0 ( 2 o più), quanti dischi ha raid 1 (soltanto 2)
+- cosa è Dublin Core e per cosa lo utilizzerei.
+- cenni ISBD
