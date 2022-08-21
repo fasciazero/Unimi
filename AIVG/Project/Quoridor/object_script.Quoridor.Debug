@@ -1,0 +1,11 @@
+debug/ai_wall.o
+debug/buttons.o
+debug/find_moves.o
+debug/main.o
+debug/minimax.o
+debug/place_wall.o
+debug/set_player.o
+debug/shortest_path.o
+debug/wall_highlight.o
+debug/qrc_images.o
+debug/moc_quoridor.o
