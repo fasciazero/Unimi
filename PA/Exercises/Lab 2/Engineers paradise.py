@@ -20,7 +20,7 @@ def factors(n):
         else: return inner(n//p, p, incredict(acc,p))
     return inner(n,2,{})
 
-def is practical(n):
+def is_practical(n):
     sf = sorted(factors(n).items(), key=lamda x:x[0])
     if sf[0][0] != 2: return False
     prod = lambda x,y:x*y
