@@ -3,6 +3,7 @@ def caching(cache, *args, funct):
     return [funct(cache[j], args[j+1]) for j in range(len(args)-1)]
 
 def multi_triggered(n, cacher):
+    print(n)
     def actual_decorator(f):
         def make_decorator(*args):
             make_decorator.count += 1
@@ -18,6 +19,7 @@ def multi_triggered(n, cacher):
 def MultiTriggered(rules):
     class Meta(type):
         def __new__(cls, classname, supers, classdict):
+            print(classdict.items())
             for attr, attrfun in classdict.items():
                 if attr in rules.keys():
                     classdict[attr] = multi_triggered(*(rules[attr]))(attrfun)
