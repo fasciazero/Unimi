@@ -27,3 +27,5 @@ if __name__ == "__main__":
     print("### after the 3rd call to m2")
     mt.m3('c', 7)
     print("### after the 3rd call to m3")
+    mt.m3('c', 7)
+    print("### after the 3rd call to m3")
