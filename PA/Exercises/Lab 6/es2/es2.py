@@ -1,10 +1,9 @@
 def memoization(f):
     def wrapper(*args):
-        print(*args)
         if args not in wrapper.cache:
             wrapper.cache[args] = f(*args)
         else:
-            print("### cached value for {} --> {}".format(args, wrapper.cache[args]))
+            print("### cached value for {} --> {}".format(*args, wrapper.cache[args]))
         return wrapper.cache[args]
     wrapper.cache = dict()
     return wrapper

@@ -6,5 +6,5 @@ if __name__ == "__main__":
 
     # print(sin.cache)
 
-    for n in [5, 7, 10, 11, 12, 9]:
+    for n in [5, 7, 10, 8, 12, 9]:
         print("fact({}) => {}".format(n, fact(n)))
